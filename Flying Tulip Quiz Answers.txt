@@ -1,0 +1,281 @@
+﻿Flying Tulip Quiz Answers
+Agregated by @Romanson  https://t.me/NewBitFuture
+
+1. Can an investor use their 'money-back guarantee' on only part of their holdings?
+Answer: Yes, they can redeem any portion of their tokens at any time.
+
+2. What is the main difference between redeeming and withdrawing FT tokens?
+Answer: Redeeming returns your initial capital; withdrawing funds a token buyback.
+
+3. Why is the 'money-back guarantee' considered 'evergreen'?
+Answer: Because it has no expiration date.
+
+4. Who is protected by the 'safety net' - the ability to get their investment back?
+Answer: Original investors who still hold their perpetual PUT.
+
+5. What is the primary strategy for managing the initial investment funds?
+Answer: The funds are kept safe in low-risk, liquid investments.
+
+6. How are project fees distributed to users?
+Answer: Fees are used to buy the project's token, which is then given to users.
+
+7. Do buybacks funded by investment interest also unlock team tokens?
+Answer: No, these specific burns only reduce the total supply.
+
+8. Do buybacks funded by project revenue unlock team tokens?
+Answer: Yes, they unlock tokens 1-to-1 with the amount burned.
+
+9. How is FT total supply designed to change over time?
+Answer: It can shrink from burns, while unlocks aim for stability.
+
+10. What makes this model appealing to large, cautious investors?
+Answer: It offers downside protection with the potential for high profit.
+
+11. What asset does an investor receive when they redeem their FT tokens?
+Answer: The exact same asset they originally invested.
+
+12. Is using borrowed money (leverage) part of the treasury's strategy?
+Answer: No, it is avoided to minimize risk.
+
+13. Why is this described as a 'token-first' model?
+Answer: Because all project earnings flow back to benefit the token.
+
+14. What is the primary effect when original investors withdraw FT from their perpetual PUT?
+Answer: It frees up funds that are then used to buy and burn tokens.
+
+15. Can community votes change or remove the 'money-back guarantee'?
+Answer: No, the guarantee exists independently of any votes.
+
+16. Which statement about the 'money-back guarantee' is false?
+Answer: It transfers to the person who buys your tokens.
+
+17. When an investor redeems their FT tokens, what happens to them?
+Answer: They are permanently destroyed (burned).
+
+18. What is the most critical piece of information for a market buyer?
+Answer: They must be informed that they do not get the 'money-back guarantee'.
+
+19. What is the trade-off for keeping the treasury in safe assets?
+Answer: It earns lower profits than riskier strategies would.
+
+20. What is a major operational risk if many investors redeem at once?
+Answer: Potential delays in withdrawing funds from various investments.
+
+21. How does the project plan to use the money it raises?
+Answer: Keep the initial funds safe and only spend the profits (yield).
+
+22. When can original investors get their money back?
+Answer: They can get their initial investment back starting from day one.
+
+23. If an investor withdraws then sells their FT tokens, what happens to their 'money-back guarantee'?
+Answer: The seller's guarantee is permanently lost.
+
+24. Do people who buy the FT token on an exchange get the 'money-back guarantee'?
+Answer: No, they do not receive a guarantee.
+
+25. When an investor redeems their FT tokens for cash, what happens to the tokens?
+Answer: Their tokens are burned and the original asset is returned.
+
+26. What is the treasury's main investment priority?
+Answer: High safety and liquidity to ensure redemptions can always be honored.
+
+27. Are FT tokens tradable immediately after the project launches?
+Answer: Yes, they are fully unlocked and liquid from day one.
+
+28. What is the treasury's main investment strategy?
+Answer: To ensure funds are always safe and available for redemptions.
+
+29. Which of these actions reduces the total number of FT tokens?
+Answer: An investor redeeming for their original money (which burns the tokens).
+
+30. When are tokens for the team and foundation unlocked?
+Answer: They are unlocked only when project revenue is used to buy and burn tokens.
+
+31. Which sequence of events is correct?
+Answer: Redeem = burn; Withdraw = buybacks; Revenue burns = unlocks.
+
+32. Which of these is not a result of an investor redeeming their tokens?
+Answer: The unlocking of tokens for the team.
+
+33. Which of these is not a result of an investor withdrawing FT from their perpetual PUT?
+Answer: The seller getting their initial investment back directly from the project.
+
+34. What does 'pro-rata' (proportional) redemption mean for an investor?
+Answer: They can redeem any partial amount of their tokens whenever they want.
+
+35. How do perpetual PUT holders receive their share of the project's yield?
+Answer: The earnings are used to buy the token, which is then distributed to holders.
+
+36. How does the revenue-linked unlock system align team incentives?
+Answer: Team unlocks only happen when the project is successful and generating revenue.
+
+37. What type of assets are prioritized for the project's treasury?
+Answer: Safe, liquid assets that do not use borrowed money.
+
+38. What is the interest earned on the treasury's funds used for?
+Answer: It is used to buy back and burn the project's token.
+
+39. When project revenue is used to fund buybacks, what does not happen?
+Answer: The treasury's core investment strategy is changed.
+
+40. What is the main consequence for an original investor who sells their tokens?
+Answer: They lose their guarantee, and this action funds a future token buyback.
+
+41. What is the most direct link between team rewards and project performance?
+Answer: Unlocking tokens only when project revenue is used to fund a burn.
+
+42. Who is protected by the 'safety net' - the ability to get their investment back?
+Answer: Original investors who have not sold or transferred their tokens.
+
+43. What is the most important message for market buyers?
+Answer: That the 'money-back guarantee' does not apply to them.
+
+44. How does project revenue affect FT token and team?
+Answer: It funds buybacks, and the amount burned then triggers an equal unlock for the team.
+
+45. Why is using borrowed money (leverage) forbidden for the treasury?
+Answer: To avoid being forced to sell assets at a loss, ensuring redemptions can always be met.
+
+46. Is the 'money-back guarantee' dependent on the market price?
+Answer: No, it works regardless of the market price.
+
+47. If FT token price increases, can an investor still take some risk off the table?
+Answer: Yes, they can redeem a portion of their tokens and keep the rest.
+
+48. What is the long-term effect of buybacks that are funded by investment interest?
+Answer: The total supply of tokens decreases over time.
+
+49. If an original investor just holds their PUT and does nothing, what is false?
+Answer: They lose their guarantee as if they had sold the tokens.
+
+50. In simple terms, why does it help the project when an original investor sells their FT tokens?
+Answer: The money backing their guarantee is used to buy and burn tokens.
+
+51. What is the 'safety net' provided to original investors?
+Answer: The right to get their initial cash investment back at any time.
+
+52. Can an original investor redeem only a small part of their tokens?
+Answer: Yes, they can redeem any portion they choose.
+
+53. Is a community vote needed to use the 'money-back guarantee'?
+Answer: No, it is a direct right that doesn't need a vote.
+
+54. What happens if a large number of original investors sell their FT tokens at once?
+Answer: A large amount of money becomes available for the project to conduct buybacks.
+
+55. Which of these is not a result of token burns funded by investment interest?
+Answer: The unlocking of team tokens.
+
+56. How are project earnings distributed to token holders?
+Answer: As tokens that were bought from the market with those earnings.
+
+57. What is the key difference between using 'interest' vs. 'revenue' for buybacks?
+Answer: Interest burns just cut supply; revenue burns also unlock team tokens.
+
+58. What is the top priority for the treasury's investment plan?
+Answer: Ensuring funds can be withdrawn quickly to meet redemption requests.
+
+59. Why might an investor choose to sell on the market instead of redeeming?
+Answer: To get a better price than their initial investment (while losing the guarantee).
+
+60. How are the project's initial operations funded?
+Answer: From the interest earned on the treasury, and later from project revenue.
+
+61. Why is this model sometimes compared to a 'principal-protected' investment?
+Answer: It gives original holders a 'safety net' for their initial capital, plus profit potential.
+
+62. What is the most critical message to communicate at the FT token launch?
+Answer: Clearly explaining how the guarantee works and specifying who it applies to.
+
+63. How does an original investor keep their 'money-back guarantee' active?
+Answer: By holding the perpetual PUT they originally received without transferring it.
+
+64. Where does the buying pressure from project revenue come from?
+Answer: From direct buybacks of the token using that revenue.
+
+65. Which of these is not a feature of this model?
+Answer: A 'money-back guarantee' for people who buy on the secondary market.
+
+66. What is a major benefit of allowing investors to redeem only a part of their tokens?
+Answer: It lets them reduce their risk while keeping some potential for future profit.
+
+67. When an investor redeems, what asset do they receive?
+Answer: The exact same asset they originally invested.
+
+68. What controls the speed of team token unlocks?
+Answer: The amount of real project revenue being used for token burns.
+
+69. Which strategy is best for the project's long-term financial health?
+Answer: Funding costs with profits, while keeping the initial investment safe.
+
+70. For a safety-focused investor, what is their most valuable tool in this model?
+Answer: The 'money-back guarantee'.
+
+71. Does the live market price matter when an original investor uses their guarantee?
+Answer: No, the redemption value is independent of the market price.
+
+72. Which action would violate the treasury's low-risk investment rules?
+Answer: Using borrowed money (leverage) to chase higher returns.
+
+73. Why is it potentially good for the token when original investors sell on the market?
+Answer: It converts the capital backing their tokens into fuel for buybacks.
+
+74. How do FT token holders benefit from the project's success?
+Answer: Through buybacks and distributions funded by project revenue.
+
+75. Which option best describes the full lifecycle of this financial model?
+Answer: Raise with guarantee, invest safely, burn from profits, grow revenue, burn more & unlock team tokens.
+
+76. What is FT token's main role in this ecosystem?
+Answer: It is the primary tool to capture value from buybacks and fee distributions.
+
+77. Which phrase best summarizes the core principle of this model?
+Answer: "Keep capital safe; use profits for buybacks and aligned rewards."
+
+78. What are the two main choices for an original investor?
+Answer: To redeem for their initial capital, or hold for future profit.
+
+79. What makes this model investor-friendly right from the start?
+Answer: A price 'safety net' and immediate ability to trade the tokens.
+
+80. What is the most critical message for anyone buying on the open market?
+Answer: They do not have the 'money-back guarantee'.
+
+81. Which of these is not a source of funding for FT token buybacks?
+Answer: A pre-set schedule of new token creation.
+
+82. What is a significant technical risk for the project's funds?
+Answer: Smart contract bugs in the platforms where the money is invested.
+
+83. What is a potential regulatory risk the project faces?
+Answer: New government rules for stablecoins and crypto staking.
+
+84. Why does redeeming FT tokens not unlock any team tokens?
+Answer: Because team unlocks are tied to revenue burns, not investor redemptions.
+
+85. If an investor wants some liquid capital but also wants to keep their guarantee, what is their best option?
+Answer: Redeem a portion of their tokens and sell them on the open market.
+
+86. How do users receive their share of the project's earnings from fees?
+Answer: The project buys its token with the fees and gives it to them.
+
+87. What is the number one priority for managing the treasury's funds?
+Answer: Keeping funds safe and easily accessible to honor redemptions.
+
+88. What does a person receive when they buy the token on an exchange?
+Answer: A tradable token with no 'money-back guarantee'.
+
+89. How is FT token supply reduced in this model?
+Answer: Through redemptions, and buybacks funded by sales and revenue.
+
+90. How can FT token become scarce early in the project's life?
+Answer: Through buybacks funded by initial investment interest and investor sales.
+
+91. How are team rewards directly linked to the project's real-world success?
+Answer: Rewards unlock only when revenue is used to fund token burns.
+
+92. When a seller loses their guarantee, what happens to the money that was backing their tokens?
+Answer: It's used to buy back and burn tokens from the market.
+
+93. If an original investor sells all their FT tokens and then buys more on the market, do they get their guarantee back?
+Answer: No, they are now a market buyer with no guarantee.
